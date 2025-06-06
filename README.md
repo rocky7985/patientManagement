@@ -64,7 +64,8 @@ python manage.py migrate
 
 ![image](https://github.com/user-attachments/assets/224bbe0a-7700-4e5d-8b12-68fe820359ad)
 
-📄 License
+📄 License:
+
 This project is for educational/demo purposes and does not use any proprietary libraries. Stisla is free for personal and commercial use (MIT License).
 
 🙋‍♂️ Author
