@@ -36,5 +36,47 @@ A web-based patient data management dashboard built using **Django** and styled 
 ---
 
 2️⃣ Create and Activate Virtual Environment
-python -m venv venv
-venv\Scripts\activate  # On Windows
+
+![image](https://github.com/user-attachments/assets/02fee9ac-9c85-446c-ab1b-d340b6e2e4be)
+
+3️⃣ Install Dependencies
+
+pip install -r requirements.txt
+
+4️⃣ Setup Environment Variables
+
+Create a .env file in the root:
+
+![image](https://github.com/user-attachments/assets/14302e9a-f9d0-4486-a68d-c7e18dc66958)
+
+5️⃣ Run Migrations
+
+python manage.py makemigrations
+python manage.py migrate
+
+6️⃣ Run Server
+
+![image](https://github.com/user-attachments/assets/e144955f-f948-4398-82f2-1f25442e13bb)
+
+## Go to: http://127.0.0.1:8000  in web browser
+
+7️⃣ Visit your Site [Stisla Dashboard]
+
+![image](https://github.com/user-attachments/assets/224bbe0a-7700-4e5d-8b12-68fe820359ad)
+
+📄 License
+This project is for educational/demo purposes and does not use any proprietary libraries. Stisla is free for personal and commercial use (MIT License).
+
+🙋‍♂️ Author
+⚫ Kanishk Srivastava
+
+⚫ Email: kanishksrivastava6@gmail.com
+
+
+💡 Feel free to contribute or raise issues if you'd like to improve or extend the project!
+
+
+
+
+
+
